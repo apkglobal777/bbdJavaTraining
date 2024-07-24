@@ -1,3 +1,5 @@
+package ContinueStatement;
+
 public class ContinueStatement {
     public static void main(String[] args) {
         //it will skip the current iteration

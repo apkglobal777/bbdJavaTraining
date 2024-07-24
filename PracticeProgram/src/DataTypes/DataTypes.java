@@ -1,3 +1,5 @@
+package DataTypes;
+
 public class DataTypes {
     public static void main(String[] args) {
         //declare the variables with data types

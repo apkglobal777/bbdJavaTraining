@@ -1,3 +1,5 @@
+package Loops;
+
 public class ForLoop {
     public static void main(String[] args) {
         //print the 10 natural no 1 to 10 and find the sum also

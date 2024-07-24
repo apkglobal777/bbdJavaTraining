@@ -1,3 +1,5 @@
+package Loops;
+
 public class DoWhileLoop {
     public static void main(String[] args) {
         //print 10 natural no from 1 to 10 and find the sum

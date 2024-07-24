@@ -1,3 +1,5 @@
+package Array;
+
 public class ArrayDemo {
     public static void main(String[] args) {
         String [] friendNames = {"Anshu", "Ivan", "Kunal", "Rahul", "Mudit"};
@@ -20,6 +22,6 @@ public class ArrayDemo {
     }
 
     private static void findEvenOddNumber(int i) {
-        
+
     }
 }
