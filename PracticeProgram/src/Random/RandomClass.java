@@ -10,7 +10,9 @@ public class RandomClass {
         float floatNo = random.nextFloat();
         double doubleNo = random.nextDouble();
         long longNo = random.nextLong();
+
         boolean booleanNo = random.nextBoolean();
+
         System.out.println("Int no is:"+ intNo);
         System.out.println("Float no is"+ floatNo);
         System.out.println("Double no is"+ doubleNo);

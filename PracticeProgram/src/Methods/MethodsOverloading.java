@@ -20,13 +20,10 @@ public class MethodsOverloading {
         //create method and find the today saving
         int saving = todaySaving(earning, expense);
         System.out.println("My saving is: "+ saving);
-
     }
-
     private static int todaySaving(int earning, int expense) {
         return (earning - expense);
     }
-
     private static double todaySaving(double earning, double expense) {
         return (earning - expense);
     }
